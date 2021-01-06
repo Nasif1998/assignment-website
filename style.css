@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 55px;
 }
+h3{
+    font-size: 40px;
+}
 .orange-heilight{
     color: orange;
 }
@@ -108,4 +111,23 @@ p{
     position: absolute;
     right: 32%;
     top: 300%;
+}
+.bonus-area{
+    overflow: hidden;
+    background-image: url("images/dark.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 95%;
+}
+#bonus1{
+    position: absolute;
+    left: 32%;
+    top: 360%;
+    font-weight: 700;
+    color: white;
+    font-size: 40px;
+}
+#trailer{
+    position: absolute;
+    left: 47%;
+    top: 385%;
 }
