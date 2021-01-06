@@ -89,3 +89,17 @@ p{
     background-color: white;
     margin-bottom: 90px;
 }
+.forth-area{
+    overflow: hidden;
+    background-image: url("shapes/Group_33094_1.png");
+    background-size: 50% 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#inquiry{
+    position: absolute;
+    left: 32%;
+    top: 297%;
+    font-weight: 700;
+    color: white;
+}
