@@ -34,7 +34,7 @@ section{
     font-size: small;
 }
 p{
-    color: dimgray;
+    color: rgb(20, 19, 19);
     margin: 0em;
     font-size: 12px;
 }
@@ -46,4 +46,46 @@ p{
 }
 .second-area{
     overflow: hidden;
+}
+.third-area{
+    overflow: hidden;
+    background-color: rgb(235, 231, 231);
+}
+#latest{
+    text-align: center;
+    margin-top: 110px;
+    margin-bottom: 90px;
+}
+.gym-site{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: white;
+    margin-left: 13%;
+    margin-bottom: 90px;
+}
+.img-size{
+    margin-top: 10px;
+    width: 100%;
+    height: 60%;
+}
+#bottom-gap{
+    margin-bottom: 1em;
+}
+#music{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: white;
+    margin-bottom: 90px;
+}
+#agency{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 70%;
+    width: 20%;
+    background-color: white;
+    margin-bottom: 90px;
 }
