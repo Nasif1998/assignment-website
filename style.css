@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Xanh Mono', monospace;
+    font-family: 'Bebas Neue', cursive;
 }
 h1{
     font-size: 55px;
@@ -28,13 +28,13 @@ section{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon, tomato);
     padding: 10px 20px;
-    border-radius: 5px;
+    border-radius: 3px;
     color: white;
     font-weight: 500;
     font-size: small;
 }
 p{
-    color: rgb(20, 19, 19);
+    color: dimgray;
     margin: 0em;
     font-size: 12px;
 }
@@ -99,7 +99,13 @@ p{
 #inquiry{
     position: absolute;
     left: 32%;
-    top: 297%;
+    top: 294%;
     font-weight: 700;
     color: white;
+    font-size: 40px;
+}
+#chat{
+    position: absolute;
+    right: 32%;
+    top: 300%;
 }
